@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アップタウン・ファンク",
+  "base_artist": "Mark Ronson",
+  "createdAt": "2026-01-14T01:26:26.936865Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson",
+      "has_synced": false,
+      "path": "select/pl_01_Uptown_Funk_Mark_Ronson.txt"
+    }
+  ]
+}
